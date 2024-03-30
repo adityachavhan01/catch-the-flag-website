@@ -35,7 +35,13 @@
     justify-content: center;
     align-items: center;
     height: 100vh; /* Center content vertically */
+    background-image: url('Lock.jpg');
+    background-size: cover; /* Cover the entire container */
+    background-position: center; /* Center the background image */
+    background-repeat: no-repeat; /* Prevent image from repeating */
+    /* Add any other background-related styles here */
 }
+
 
 .text-and-logo-container {
    
