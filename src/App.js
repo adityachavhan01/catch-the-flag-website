@@ -1,12 +1,9 @@
-import React from 'react';
-import './App.css'; // Import your CSS file
 import HomePage from './HomePage/Homepage';
+import './App.css';
 
 function App() {
   return (
-    <div className="app">
-      <HomePage />
-    </div>
+    <HomePage />
   );
 }
 
